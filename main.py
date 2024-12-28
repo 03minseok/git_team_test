@@ -1,4 +1,5 @@
-
+import hate
 # main.py
 def main():
-	return 0
+	return hate.hate()
+ # hi
