@@ -1,4 +1,5 @@
 
-# main.py
+import like
+
 def main():
-	return 0
+	return like.like()
